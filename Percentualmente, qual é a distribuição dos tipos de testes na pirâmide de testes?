@@ -1,0 +1,13 @@
+#Percentualmente, qual é a distribuição dos tipos de testes na pirâmide de testes ?
+
+
+Os tipos de testes em uma pirâmide de testes estão escalonados em :
+ - Testes funcionais ou manuais: (Pouca quantidade de testes);
+ - Testes automatizados: Focado em testes de API (Média quantidade de testes);
+ - Testes unitários e de integração: Geralmente criado pelos desenvolvedores( Alta quantidade de testes);
+ 
+ 
+
+
+Alex Beneteli
+RA: 1800807

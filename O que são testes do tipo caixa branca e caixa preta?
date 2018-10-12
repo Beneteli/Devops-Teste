@@ -1,0 +1,7 @@
+Teste Caixa Branca: Acessa o código fonte, tem conhecimento da estrutura interna do produto e analisa e possibilita as escolhas dos componentes para serem avaliadas. Ele também é conhecido como teste estrutural.
+
+Teste Caixa Preta: Não acessa o código fonte, e não conhece a estrutura interna do produto. Ele também é conhecido como teste funcional.
+
+
+Nome: Sergio Luis dos Santos
+RA: 1800830
